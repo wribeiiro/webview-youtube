@@ -1,6 +1,6 @@
 # webview-youtube 
 
-Small app, to play youtube videos ▶️ while:  
+Small app, to play youtube videos through a "mini player" fixed to the top of your screen while:  
 - Coding 👨‍💻 
 - Drink coffee ☕
 - Studying 📚👨‍
