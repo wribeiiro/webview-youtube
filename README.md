@@ -1,6 +1,12 @@
 # webview-youtube 
 
-Small app, to play youtube videos ▶️ , while coding 👨‍💻, drink coffee ☕ and studying 📚👨‍
+Small app, to play youtube videos ▶️ while:  
+</br>
+Coding 👨‍💻 
+</br>
+Drink coffee ☕
+</br>
+Studying 📚👨‍
 
 ![View this](screenshot.png)
 
