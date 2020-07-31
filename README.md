@@ -2,6 +2,8 @@
 
 Small app, to play youtube videos ▶️ , while coding 👨‍💻, drink coffee ☕ and studying 📚👨‍
 
+![View this](screenshot.png)
+
 ## To Use
 
 ```bash
